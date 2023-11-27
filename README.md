@@ -7,3 +7,5 @@ This dataset consists of about 87K rgb images of healthy and diseased crop leave
 | Train Accuracy | Test Accuracy | Precision Score | Recall Score |
 |--------------|--------------|----------|-------------|
 |98.43 % |96.32 % |96.32 % |96.32 % |
+
+## Graph
