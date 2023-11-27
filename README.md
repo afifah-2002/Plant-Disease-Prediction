@@ -10,5 +10,5 @@ This dataset consists of about 87K rgb images of healthy and diseased crop leave
 
 ## Graph
 <p align="center">
-  <img src="/Model Images/img1.png"/>
+  <img src="/Model Images/img2.png"/>
 </p>
